@@ -1,7 +1,0 @@
-[package]
-name = "playground"
-version = "0.1.0"
-authors = ["dhruv"]
-edition = "2018"
-
-[dependencies]
